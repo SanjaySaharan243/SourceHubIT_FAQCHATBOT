@@ -33,6 +33,6 @@ A Google Gemini API key
 ## Result :
 <img width="1226" height="699" alt="Screenshot 2025-09-22 at 9 04 18 AM" src="https://github.com/user-attachments/assets/c7191f85-da58-4ebb-b790-94e8c6f337f2" />
 
-<img width="1247" height="695" alt="Screenshot 2025-09-22 at 9 03 23 AM" src="https://github.com/user-attachments/assets/14a7884b-5f1a-4f23-aac8-f601989854e8" />
+<img width="1232" height="688" alt="Screenshot 2025-09-22 at 9 01 16 AM" src="https://github.com/user-attachments/assets/e8492fba-f4aa-43c4-8112-40059208cc41" />
 
-<img width="1226" height="699" alt="Screenshot 2025-09-22 at 9 04 18 AM" src="https://github.com/user-attachments/assets/150bbfd8-b3c1-412a-9cab-23fe6ef645c8" />
+<img width="1247" height="695" alt="Screenshot 2025-09-22 at 9 03 23 AM" src="https://github.com/user-attachments/assets/14a7884b-5f1a-4f23-aac8-f601989854e8" />
