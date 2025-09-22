@@ -5,25 +5,23 @@ The chatbot takes user questions from a web interface, sends them to Gemini, and
 
 ## Features
 
-## Flask backend with REST endpoint (/ask)
+ Flask backend with REST endpoint (/ask)
 
-## Google Gemini integration (gemini-2.5-pro model)
+ Google Gemini integration (gemini-2.5-pro model)
 
-## Markdown → HTML rendering (supports code blocks, lists, etc.)
+ Markdown → HTML rendering (supports code blocks, lists, etc.)
 
-## Bootstrap-based frontend with chat-style UI
+ Bootstrap-based frontend with chat-style UI
 
-## Easy setup using .env for API keys
+ Easy setup using .env for API keys
 
 ## Project Structure
 project/
-├── app.py                # Flask application
-├── requirements.txt      # Python dependencies
-├── .env                  # Environment variables (API key)
-├── templates/
-│   └── index.html        # Frontend page
-└── static/
-    └── style.css         # Custom CSS (optional)
+app.py                # Flask application
+requirements.txt      # Python dependencies
+.env                  # Environment variables (API key)
+templates/ index.html        # Frontend page
+static/style.css         # Custom CSS (optional)
 
 ## Requirements
 
